@@ -1,5 +1,5 @@
 <div align="center"> <img src="https://github.com/siruidops/siruidops/raw/main/text.gif"> <br/>
-<img alt="profile view" src="https://komarev.com/ghpvc/?username=siruidops&style=flat&color=magenta"> <div/>
+<img alt="profile view" src="https://komarev.com/ghpvc/?username=siruidops&style=flat&color=orange"> <div/>
 
 Bitcoin ```152pNdGYBUJg63mfkcFoDQxKXRqgmcxece``` <br/>
 Ether ```0xDBC9067158b384618c2Ffb03B9f93B22a7bD2d4F```<br/>
