@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/siruidops/siruidops/raw/main/text.gif">
+<div align="center"> <img src="https://github.com/siruidops/siruidops/raw/main/text.gif"> <br/>
 <img alt="profile view" src="https://komarev.com/ghpvc/?username=siruidops&style=flat&color=blue"> <div/>
 
 Bitcoin ```152pNdGYBUJg63mfkcFoDQxKXRqgmcxece``` <br/>
