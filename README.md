@@ -8,4 +8,9 @@ Bitcoin Cash ```qqkrsakxy9aj42duulrxkkgv4g0usax52gwypgypec```<br/>
 Tether ```0xDBC9067158b384618c2Ffb03B9f93B22a7bD2d4F```<br/>
 Stellar ```GAKHDLEUOPPDQKV3KLCGRA4BX3XMNKAEDEJAYZW4C324XTQOUEJ6PXC3```<br/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siruidops&count_private=true&show_icons=true&theme=radical" alt="siruidops" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siruidops&count_private=true&show_icons=true&theme=radical" alt="siruidops" /> </p><br/>
+
+<p align="center"> 
+<a href="https://twitter.com/siruidops" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="siruidops" height="25" width="25" /></a>
+<a href="https://www.instagram.com/uidops/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="uidops" height="25" width="25" /></a>
+</p>
