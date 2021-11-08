@@ -5,8 +5,8 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uidops&count_private=true&show_icons=true&theme=midnight-purple" alt="uidops" /> </p><br/>
 
 <p align="center"> 
-  <a href="https://twitter.com/siruidops" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="siruidops" height="25" width="25" /></a>
-  <a href="https://www.instagram.com/thinlto/" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="sys_call" height="25" width="25" /></a>
+  <a href="https://twitter.com/_uidops" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="_uidops" height="25" width="25" /></a>
+  <a href="https://www.instagram.com/_uidops/" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="_uidops" height="25" width="25" /></a>
   <a href="https://t.me/sys_call" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg alt="sys_call" height="25" width="25" /></a>
 </p>
 
