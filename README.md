@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uidops&show_icons=true&hide_border=true&count_private=true&theme=react" alt="uidops" /><!-- <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uidops&theme=react&count_private=true&hide_border=true" alt="uidops" /> --> </p><br/>
 
 <p align="center"> 
-  <a href="https://twitter.com/_uidops" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="_uidops" height="25" width="25" /></a>
+  <a href="https://twitter.com/_uidops" target="blank"><img align="center" src="https://img.icons8.com/dusk/64/000000/twitter--v2.png" alt="_uidops" height="25" width="25" /></a>
   <a href="https://www.instagram.com/_uidops/" target="blank"><img align="center" src="https://img.icons8.com/dusk/64/000000/instagram--v1.png" alt="_uidops" height="25" width="25" /></a>
   <a href="https://t.me/sys_call" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/sent.png" alt="sys_call" height="25" width="25" /></a>
 </p>
