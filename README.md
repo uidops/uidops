@@ -3,10 +3,3 @@
 <img alt="profile view" src="https://komarev.com/ghpvc/?username=siruidops&style=flat&color=red"> <img src="https://img.shields.io/badge/language-Python-purple">  <img src="https://img.shields.io/badge/language-C-purple"> <img src="https://img.shields.io/badge/os-Gentoo-red"> </div> <br/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uidops&show_icons=true&hide_border=true&count_private=true&theme=react" alt="uidops" /><!-- <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uidops&theme=react&count_private=true&hide_border=true" alt="uidops" /> --> </p><br/>
-
-<p align="center"> 
-  <a href="https://twitter.com/_uidops" target="blank"><img align="center" src="https://img.icons8.com/dusk/64/000000/twitter--v2.png" alt="_uidops" height="25" width="25" /></a>
-  <a href="https://www.instagram.com/_uidops/" target="blank"><img align="center" src="https://img.icons8.com/dusk/64/000000/instagram--v1.png" alt="_uidops" height="25" width="25" /></a>
-  <a href="https://t.me/sys_call" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/sent.png" alt="sys_call" height="25" width="25" /></a>
-</p>
-
